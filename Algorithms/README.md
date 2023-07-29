@@ -138,7 +138,7 @@
 - [0785-Is-Graph-Bipartite?](./Medium/0785-Is-Graph-Bipartite?/README.md): [Python](#), [Java](#), [C++](#), [JavaScript](#)
 - [0787-Cheapest-Flights-Within-K-Stops](./Medium/0787-Cheapest-Flights-Within-K-Stops/README.md): [Python](#), [Java](#), [C++](#), [JavaScript](#)
 - [0802-Find-Eventual-Safe-States](./Medium/0802-Find-Eventual-Safe-States/README.md): [Python](#), [Java](#), [C++](#), [JavaScript](#)
-- [0808-Soup-Servings](./Medium/0808-Soup-Servings/README.md): [Python](#), [Java](#), [C++](#), [JavaScript](#)
+- [0808-Soup-Servings](./Medium/0808-Soup-Servings/README.md): [Python](./Medium/0808-Soup-Servings/leetcode-08080-Soup-Servings.py), [Java](#), [C++](#), [JavaScript](#)
 - [0837-New-21-Game](./Medium/0837-New-21-Game/README.md): [Python](#), [Java](#), [C++](#), [JavaScript](#)
 - [0863-All-Nodes-Distance-K-in-Binary-Tree](./Medium/0863-All-Nodes-Distance-K-in-Binary-Tree/README.md): [Python](#), [Java](#), [C++](#), [JavaScript](#)
 - [0881-Boats-to-Save-People](./Medium/0881-Boats-to-Save-People/README.md): [Python](#), [Java](#), [C++](#), [JavaScript](#)
