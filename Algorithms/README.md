@@ -195,6 +195,7 @@
 - [2735-Collecting-Chocolates](./Medium/2735-Collecting-Chocolates/README.md): [Python](#), [Java](#), [C++](#), [JavaScript](#)
 - [2740-Find-the-Value-of-the-Partition](./Medium/2740-Find-the-Value-of-the-Partition/README.md): [Python](#), [Java](#), [C++](#), [JavaScript](#)
 - [2741-Special-Permutations](./Medium/2741-Special-Permutations/README.md): [Python](#), [Java](#), [C++](#), [JavaScript](#)
+- [0712-Minimum-ASCII-Delete-Sum-for-Two-Strings](./Medium/0712-Minimum-ASCII-Delete-Sum-for-Two-Strings/README.md): [Python](./Medium/0712-Minimum-ASCII-Delete-Sum-for-Two-Strings/leetcode-0712-Minimum-ASCII-Delete-Sum-for-Two-Strings.py), [Java](#), [C++](#), [JavaScript](#)
 
 ### Hard
 - [0004-Median-of-Two-Sorted-Arrays](./Hard/0004-Median-of-Two-Sorted-Arrays/README.md): [Python](#), [Java](#), [C++](#), [JavaScript](#)
