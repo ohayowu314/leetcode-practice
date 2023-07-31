@@ -32,6 +32,7 @@ Return *the probability that **soup A** will be empty first, plus half the proba
     For the third operation, A and B will become empty at the same time.
     For the fourth operation, B will become empty first.
     So the total probability of A becoming empty first plus half the probability that A and B become empty at the same time, is 0.25 * (1 + 1 + 0.5 + 0) = 0.625.
+
 ### **Example 2**:
 **Input**:
 
@@ -41,7 +42,7 @@ Return *the probability that **soup A** will be empty first, plus half the proba
 
     (float) 0.71875
 
-#### Related Topics
+### Related Topics
 - Math
 - Dynamic Programming
 - Probability and Statistics
@@ -84,9 +85,6 @@ class Solution:
         # 回傳答案
         return dp[m][m]
 ```
-#### Grade
-- Runtime: 51ms Beats 80.19%
-- Memory: 16.9MB Beats 87.74%
 #### Complexity Analysis
 - Time complexity: $O(1)$.
 
@@ -100,6 +98,9 @@ We assume $\epsilon$ to be constant. It implies that $m_0$ is also constant, thu
 
 The space complexity is $O(m_0 ^ 2) = O(1)$.
 
+#### Grade
+- Runtime: 51ms Beats 80.19%
+- Memory: 16.9MB Beats 87.74%
 ## Python3 Leetcode 提供:
 
 ### Approach 1: Bottom-Up Dynamic Programming
@@ -125,9 +126,6 @@ class Solution:
                 return 1
         return dp[m][m]
 ```
-#### Grade
-- Runtime: 473 ms Beats 9.91%
-- Memory: 18.8 MB Beats 24.53%
 #### Complexity Analysis
 - Time complexity: $O(1)$.
 
@@ -140,6 +138,9 @@ We assume $\epsilon$ to be constant. It implies that $m_0$ is also constant, thu
 - Space complexity: $O(1)$.
 
 The space complexity is $O(m_0 ^ 2) = O(1)$.
+#### Grade
+- Runtime: 473 ms Beats 9.91%
+- Memory: 18.8 MB Beats 24.53%
 ### Approach 2: Top-Down Dynamic Programming (Memoization)
 ```py
 class Solution:
@@ -170,15 +171,15 @@ class Solution:
                 return 1.0
         return calculate_dp(m, m)
 ```
-#### Grade
-- Runtime: 253 ms Beats 18.87%
-- Memory: 23.8 MB Beats 12.74%
 #### Complexity Analysis
 - Time complexity: $O(1)$.
 - Space complexity: $O(1)$.
 
 Both time and space complexities are the same as in the first approach.
 
+#### Grade
+- Runtime: 253 ms Beats 18.87%
+- Memory: 23.8 MB Beats 12.74%
 ## Python3 最快:
 ```py
 class Solution:

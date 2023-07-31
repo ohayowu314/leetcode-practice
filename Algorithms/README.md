@@ -224,6 +224,7 @@
 - [2681-Power-of-Heroes](./Hard/2681-Power-of-Heroes/README.md): [Python](#), [Java](#), [C++](#), [JavaScript](#)
 - [2709-Greatest-Common-Divisor-Traversal](./Hard/2709-Greatest-Common-Divisor-Traversal/README.md): [Python](#), [Java](#), [C++](#), [JavaScript](#)
 - [2713-Maximum-Strictly-Increasing-Cells-in-a-Matrix](./Hard/2713-Maximum-Strictly-Increasing-Cells-in-a-Matrix/README.md): [Python](#), [Java](#), [C++](#), [JavaScript](#)
+- [0664-Strange-Printer](./Hard/0664-Strange-Printer/README.md): [Python](#), [Java](#), [C++](#), [JavaScript](#)
 
 
 
