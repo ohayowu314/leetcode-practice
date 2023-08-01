@@ -49,7 +49,7 @@ Return *the probability that **soup A** will be empty first, plus half the proba
 
 # **Solution**:
 ## Python3:
-我第一個 AC 回答
+### 我第一個 AC 回答
 ```py
 class Solution:
     # 採用 動態規劃 memoization?

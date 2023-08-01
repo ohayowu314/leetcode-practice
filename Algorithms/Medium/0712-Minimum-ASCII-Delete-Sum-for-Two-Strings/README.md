@@ -45,7 +45,7 @@ Given two strings `s1` and `s2`, return *the lowest **ASCII** sum of deleted cha
 
 # **Solution**:
 ## Python3:
-我第一個 AC 回答
+### 我第一個 AC 回答
 ```py
 class Solution:
     # First AC
@@ -89,7 +89,7 @@ class Solution:
 
         return solve(n1, n2)[1]
 ```
-更簡單的回答
+### 更簡單的回答
 ```py
 class Solution:
     # more simple

@@ -98,7 +98,7 @@
 - [0073-Set-Matrix-Zeroes](./Medium/0073-Set-Matrix-Zeroes/README.md): [Python](#), [Java](#), [C++](#), [JavaScript](#)
 - [0074-Search-a-2D-Matrix](./Medium/0074-Search-a-2D-Matrix/README.md): [Python](#), [Java](#), [C++](#), [JavaScript](#)
 - [0075-Sort-Colors](./Medium/0075-Sort-Colors/README.md): [Python](#), [Java](#), [C++](#), [JavaScript](#)
-- [0077-Combinations](./Medium/0077-Combinations/README.md): [Python](#), [Java](#), [C++](#), [JavaScript](#)
+- [0077-Combinations](./Medium/0077-Combinations/README.md): [Python](./Medium/0077-Combinations/leetcode-0077-Combinations.py), [Java](#), [C++](#), [JavaScript](#)
 - [0078-Subsets](./Medium/0078-Subsets/README.md): [Python](#), [Java](#), [C++](#), [JavaScript](#)
 - [0079-Word-Search](./Medium/0079-Word-Search/README.md): [Python](#), [Java](#), [C++](#), [JavaScript](#)
 - [0081-Search-in-Rotated-Sorted-Array-II](./Medium/0081-Search-in-Rotated-Sorted-Array-II/README.md): [Python](#), [Java](#), [C++](#), [JavaScript](#)
