@@ -10,5 +10,32 @@
 ### Hard
 - [0664-Strange-Printer](./Hard/0664-Strange-Printer/README.md): [Python](#), [Java](#), [C++](#), [JavaScript](#)
 
-
+## 根據類型分類
+### array
+### hash table
+### two pointers
+### fast and slow pointers
+### sliding window
+### merge intervals
+### binary search
+### recursion
+### binary tree
+### backtracking
+### dfs
+### bfs
+### tree
+### tree bfs
+### tree dfs
+### graph
+### linkedlist
+### in-place reversal of a linkedlist
+### sort
+### cyclic sort
+### trie
+### string
+### subsets
+### stack
+### queue
+### two heaps
+### dynamic programming (DP)
 
